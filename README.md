@@ -22,13 +22,13 @@ This project uses Python and Regular Expressions (Regex) to extract structured d
 
   Repository Structure
 
-alu_regex-data-extraction-kenny260/
+ alu_regex-data-extraction-kenny260/
 │
 ├── regex_extractor.py # Main Python script
 ├── README.md # Project documentation
 
 
-⚙️ Setup Instructions
+⚙️Setup Instructions
 
 1. Clone the repository:
    ```bash
@@ -37,13 +37,13 @@ alu_regex-data-extraction-kenny260/
 
 Make sure you have Python 3 installed.
 
-▶️ How to Run
+ How to Run
 
 Run the script in your terminal:
 
 python3 regex_extractor.py
 
- Example Output
+  Example Output
 
 Emails: ['user@example.com', 'firstname.lastname@company.co.uk']
 URLs: ['https://www.example.com', 'https://sub.example.org/page']
