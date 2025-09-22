@@ -27,10 +27,9 @@ This project uses Python and Regular Expressions (Regex) to extract structured d
 ├── regex_extractor.py # Main Python script
 ├── README.md # Project documentation
 
+   Setup Instructions
 
-⚙️Setup Instructions
-
-1. Clone the repository:
+1.Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/alu_regex-data-extraction-kenny260.git
    cd alu_regex-data-extraction-kenny260
